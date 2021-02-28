@@ -1,4 +1,4 @@
-#Campus Recruitment System
+# Campus Recruitment System
 
 A college campus recruitment system that consists of a student login,
 company login and an admin login. The project is beneficial for college
@@ -15,7 +15,7 @@ details not pertaining to college placement rules. The system handles
 student as well as company data and efficiently displays all this data to
 respective sides.
 
-#Modules:
+# Modules:
 
  Admin Login
  Student Login
